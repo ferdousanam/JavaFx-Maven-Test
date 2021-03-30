@@ -1,0 +1,19 @@
+# Maven
+target
+
+#IntelliJ IDEA
+*.iml
+.idea
+out
+
+# BlueJ files
+*.ctxt
+
+# VM Crash Files
+hs_err_pid*
+
+# Log file
+*.log
+/.settings
+/.project
+/.classpath
